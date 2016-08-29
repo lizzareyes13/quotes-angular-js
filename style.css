@@ -1,0 +1,49 @@
+body{
+  background-image: url("soho.jpg");
+  background-size: cover;
+}
+
+/*make the background image blurred*/
+/*.blur-container{
+  -webkit-filter: blur(2px);
+}*/
+
+#quote{
+  font-family: 'Alegreya SC', cursive;
+  font-size: 30px;
+  /*text-align: center;*/
+}
+
+#author{
+  text-align: center;
+  font-family: 'Special Elite', cursive;
+}
+
+#card-content{
+  font-family: 'Alegreya SC', serif;
+  text-align: center;
+}
+
+.card-title{s
+  font-family: 'Grand Hotel', cursive;
+  text-align: center;
+  font-size: 40px;
+}
+
+#divpicture{
+  background-image: url("mind-in-bloom.jpg");
+  display: block;
+  /*max-width:230px;
+  max-height:95px;*/
+  /*width: auto;
+  height: auto;*/
+}
+
+.div-border{
+  border-color: transparent;
+  border-radius: 10px;
+}
+
+.container{
+  margin-top: 100px;
+}
